@@ -9,6 +9,7 @@ Todos los datasets utilizados en las notebooks son de tipo hidrológico y se enc
 2) Descomposición de series temporales
 3) Análisis de correlación y autocorrelación
 4) Métodos simples de pronóstico
+5) Aplicación de transformaciones simples en series temporales
 
 ## Librerias requeridas
 `numpy`
