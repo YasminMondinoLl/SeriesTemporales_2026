@@ -10,7 +10,7 @@ Todos los datasets utilizados en las notebooks son de tipo hidrológico y se enc
 3) Análisis de correlación y autocorrelación
 4) Métodos simples de pronóstico
 5) Aplicación de transformaciones simples en series temporales
-6) Cálculo de modelos de Regresión Lineal
+6) Cálculo de modelos de Regresión
    
 
 ## Librerias requeridas
